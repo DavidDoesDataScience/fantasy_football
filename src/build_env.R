@@ -1,6 +1,6 @@
 ### Load libraries
-# install.packages(c('ggplot2', 'ggthemes', 'tidyr', 'viridis', 'shiny', 'devtools', 'MASS', 'RColorBrewer'),
-#                  repos = 'http://cran.us.r-project.org')
+install.packages(c('ggplot2', 'ggthemes', 'tidyr', 'viridis', 'shiny', 'devtools', 'MASS', 'RColorBrewer'),
+                 repos = 'http://cran.us.r-project.org')
 require(ggplot2)
 require(ggthemes)
 require(tidyr)
